@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there I'm Wisdom Choe 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+cs
 <!--
 **choejh/choejh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
