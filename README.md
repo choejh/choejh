@@ -1,4 +1,4 @@
-### Hi there I'm Wisdom Choe 👋
+### Hi there ! I'm Wisdom Choe 👋
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=choejh&show_icons=true)
 
 
